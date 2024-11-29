@@ -1,0 +1,97 @@
+﻿"Household spending by household income quintile, Canada, regions and provinces c 1 2 3 4 5 6 7"
+"Frequency: Annual"
+"Table: 11-10-0223-01 (formerly CANSIM 203-0022)"
+"Release date: 2023-10-18"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+""
+""
+
+"Geography","Canada 8",,,,,,,,,,,,"British Columbia",,,,,,,,,,,
+"Statistic","Average expenditure per household",,,,,,,,,,,,"Average expenditure per household",,,,,,,,,,,
+"Before-tax household income quintile","All quintiles",,,,"Lowest quintile",,,,"Highest quintile",,,,"All quintiles",,,,"Lowest quintile",,,,"Highest quintile",,,
+"Household expenditures, summary-level categories","2018","2019","2020","2021","2018","2019","2020","2021","2018","2019","2020","2021","2018","2019","2020","2021","2018","2019","2020","2021","2018","2019","2020","2021"
+,"Dollars",,,,,,,,,,,,,,,,,,,,,,,
+"Total expenditure","..","93,724","..","92,500","..","37,534","..","38,443","..","185,422","..","182,410","..","102,091","..","99,903","..","47,354","..","47,993","..","190,294","..","188,540"
+"Total current consumption","..","68,980","..","67,126","..","35,512","..","36,376","..","115,757","..","109,752","..","77,511","..","75,028","..","45,057","..","45,529","..","124,038","..","116,471"
+"Food expenditures","..","10,311","..","10,305","..","5,560","..","6,129","..","15,570","..","15,715","..","10,639","..","11,341","..","6,388","..","8,348","..","14,799","..","16,295"
+"Food purchased from stores","..","7,536","..","8,065","..","4,363","..","4,929","..","10,805","..","11,999","..","7,553","..","8,208","..","5,078","..","6,360","..","10,206","..","11,313"
+"Ready-to-cook meal delivery services","..","..","..","52","..","..","..","F","..","..","..","122","..","..","..","F","..","..","..","F","..","..","..","F"
+"Food purchased from restaurants","..","2,775","..","2,189","..","1,197","..","1,187","..","4,766","..","3,593","..","3,086","..","3,075","..","1,310","..","1,988","..","4,593","..","4,982"
+"Shelter","..","20,200","..","21,106","..","12,093","..","12,718","..","33,013","..","33,367","..","23,874","..","24,594","..","15,645","..","16,666","..","38,185","..","37,761"
+"Principal accommodation","..","18,371","..","19,582","..","11,611","..","12,384","..","28,837","..","29,787","..","21,582","..","22,711","..","14,713","..","15,571","..","33,121","..","33,569"
+"Rented living quarters","..","4,160","..","4,145","..","6,373","..","6,053","..","1,248","..","1,490","..","5,010","..","5,033","..","6,078","..","6,063","..","2,194","..","2,536"
+"Owned living quarters","..","11,676","..","12,700","..","3,885","..","4,768","..","23,746","..","24,192","..","14,357","..","15,209","..","7,334","..","7,818","..","27,387","..","27,294"
+"Water, fuel and electricity for principal accommodation","..","2,535","..","2,737","..","1,354","..","1,563","..","3,843","..","4,105","..","2,216","..","2,469","..","1,300","..","1,691","..","3,540","..","3,740"
+"Other accommodation","..","1,829","..","1,523","..","481","..","334","..","4,176","..","3,580","..","2,291","..","1,883","..","932","..","F","..","5,064","..","4,192"
+"Household operations","..","5,448","..","5,587","..","2,716","..","3,277","..","9,199","..","8,880","..","5,938","..","6,056","..","3,296","..","4,070","..","10,533","..","9,672"
+"Communications","..","2,670","..","3,001","..","1,603","..","1,864","..","3,816","..","4,240","..","2,964","..","3,170","..","1,856","..","2,297","..","4,174","..","4,401"
+"Household cleaning supplies and equipment","..","248","..","269","..","140","..","194","..","345","..","383","..","230","..","219","..","102","..","128","..","397","..","366"
+"Paper, plastic and foil supplies","..","362","..","379","..","188","..","277","..","566","..","538","..","364","..","409","..","245","..","311","..","610","..","661"
+"Household furnishings and equipment","..","2,486","..","3,570","..","1,067","..","1,766","..","4,262","..","6,835","..","2,540","..","3,320","..","1,413","..","2,078","..","3,976","..","5,586"
+"Household furnishings","..","1,124","..","1,591","..","540","..","659","..","1,935","..","3,312","..","1,095","..","1,376","..","F","..","890","..","1,458","..","2,433"
+"Household equipment","..","1,218","..","1,727","..","482","..","960","..","2,045","..","3,103","..","1,320","..","1,713","..","514","..","971","..","2,272","..","2,759"
+"Household appliances","..","582","..","817","..","194","..","340","..","1,021","..","1,466","..","613","..","772","..","180","..","538","..","1,245","..","1,236"
+"Clothing and accessories","..","3,344","..","2,303","..","1,522","..","1,026","..","5,643","..","3,729","..","3,691","..","2,517","..","1,751","..","1,329","..","6,130","..","3,941"
+"Women's and girls' wear (women and girls aged 14 years and over) 9","..","1,344","..","844","..","659","..","404","..","2,209","..","1,393","..","1,406","..","967","..","852","..","604","..","2,312","..","1,416"
+"Women's and girls' wear (women and girls aged 4 years and over) (Terminated)","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t"
+"Men's and boys' wear (men and boys aged 14 years and over) 9","..","843","..","570","..","377","..","244","..","1,569","..","965","..","839","..","603","..","327","..","274","..","1,635","..","943"
+"Men's and boys' wear (men and boys aged 4 years and over) (Terminated)","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t"
+"Children's wear (children under 14 years of age) 9","..","413","..","291","..","157","..","61","..","656","..","457","..","365","..","260","..","163","..","87","..","585","..","462"
+"Children's wear (children under 4 years) (Terminated)","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t"
+"Athletic footwear 9","..","183","..","158","..","74","..","66","..","342","..","270","..","234","..","203","..","147","..","86","..","383","..","314"
+"Accessories 9","..","174","..","117","..","87","..","57","..","255","..","200","..","224","..","118","..","F","..","57","..","310","..","238"
+"Watches and jewellery 9","..","228","..","125","..","51","..","50","..","360","..","216","..","F","..","148","..","F","..","F","..","F","..","289"
+"Gifts of clothing for non-household members (Terminated)","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t"
+"Clothing material, yarn, thread and other notions","..","39","..","66","..","20","..","41","..","62","..","89","..","52","..","77","..","32","..","F","..","45","..","118"
+"Clothing services","..","120","..","132","..","96","..","103","..","190","..","139","..","118","..","141","..","82","..","120","..","183","..","162"
+"Transportation","..","12,737","..","10,099","..","5,290","..","4,449","..","22,385","..","17,190","..","14,259","..","10,870","..","7,230","..","4,083","..","23,752","..","17,259"
+"Private transportation","..","11,258","..","9,501","..","4,384","..","4,077","..","19,820","..","16,263","..","12,194","..","10,120","..","5,900","..","3,399","..","19,967","..","16,158"
+"Public transportation","..","1,479","..","598","..","906","..","372","..","2,565","..","927","..","2,064","..","751","..","1,330","..","684","..","3,785","..","1,101"
+"Health care","..","2,780","..","2,776","..","1,566","..","1,512","..","4,163","..","4,173","..","3,209","..","2,973","..","2,086","..","1,864","..","4,672","..","4,163"
+"Direct health care costs to household","..","1,918","..","2,059","..","1,377","..","1,326","..","2,643","..","2,885","..","2,512","..","2,381","..","1,897","..","1,692","..","3,515","..","3,134"
+"Health insurance premiums (Terminated) 10","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t","..t"
+"Private health insurance plan premiums","..","863","..","717","..","189","..","187","..","1,521","..","1,288","..","697","..","592","..","190","..","171","..","1,157","..","1,028"
+"Personal care","..","1,384","..","1,430","..","713","..","794","..","2,306","..","2,288","..","1,376","..","1,574","..","689","..","1,085","..","2,399","..","2,451"
+"Personal care products","..","745","..","689","..","435","..","468","..","1,163","..","1,030","..","704","..","653","..","356","..","647","..","1,227","..","942"
+"Personal care services","..","639","..","740","..","278","..","326","..","1,144","..","1,258","..","672","..","921","..","333","..","438","..","1,172","..","1,509"
+"Recreation","..","4,624","..","4,223","..","1,530","..","1,727","..","9,711","..","7,440","..","5,247","..","4,770","..","1,767","..","2,157","..","9,969","..","7,602"
+"Recreational equipment and related services","..","995","..","1,539","..","404","..","681","..","1,856","..","2,611","..","1,210","..","1,677","..","491","..","737","..","1,658","..","2,713"
+"Home entertainment equipment and services","..","209","..","371","..","110","..","153","..","350","..","598","..","245","..","387","..","F","..","280","..","358","..","553"
+"Recreational services","..","2,593","..","1,168","..","872","..","636","..","5,491","..","1,978","..","2,676","..","1,208","..","893","..","768","..","5,153","..","1,785"
+"Recreational vehicles and associated services","..","826","..","1,144","..","144","..","257","..","2,014","..","2,253","..","1,115","..","1,498","..","F","..","372","..","2,800","..","2,550"
+"Education","..","1,691","..","1,797","..","1,238","..","952","..","3,367","..","3,809","..","2,357","..","2,491","..","2,037","..","1,349","..","3,274","..","4,233"
+"Tuition fees","..","1,550","..","1,651","..","1,165","..","905","..","3,085","..","3,499","..","2,208","..","2,363","..","1,976","..","1,281","..","3,007","..","3,982"
+"Textbooks and school supplies","..","140","..","146","..","73","..","47","..","282","..","310","..","149","..","128","..","61","..","F","..","266","..","251"
+"Games of chance","..","186","..","173","..","111","..","143","..","256","..","274","..","119","..","141","..","F","..","F","..","89","..","235"
+"Miscellaneous expenditures","..","1,838","..","1,754","..","832","..","653","..","3,233","..","3,357","..","2,298","..","1,984","..","918","..","538","..","3,872","..","3,992"
+"Income taxes 10","..","17,167","..","18,181","..","702","..","868","..","53,133","..","56,279","..","15,784","..","17,832","..","545","..","870","..","46,705","..","56,592"
+"Personal insurance payments and pension contributions","..","5,297","..","5,519","..","568","..","534","..","12,038","..","12,889","..","4,970","..","5,267","..","492","..","521","..","11,234","..","11,994"
+"Gifts of money, support payments and charitable contributions","..","2,280","..","1,674","..","752","..","666","..","4,493","..","3,490","..","3,826","..","1,776","..","1,260","..","1,072","..","8,317","..","3,483"
+
+Symbol legend:
+.., not available for a specific reference period
+F, too unreliable to be published
+
+
+"Table Corrections:"
+Date,Note
+"","On November 9, 2017, the data from 2014 were corrected for the series "Makeup, skin care, manicure and fragrance products". As a result, the data for the series "Personal care products", "Personal care", "Total current consumption" and "Total expenditure" may have also changed."
+
+
+
+Footnotes:
+1,"All households are ranked from lowest to highest according to the value of their before-tax income. The ranked population is then divided into five groups of equal numbers of units, called quintiles. Annual income boundaries are available upon request from Client Services."
+2,"For more information about survey methodology, data quality, variable definitions and data products, see the Survey of Household Spending User Guide (catalogue number 62F0026MIE) available free on the Statistics Canada website: <a href="https://www5.statcan.gc.ca/bsolc/olc-cel/olc-cel?catno=62F0026M&chropg=1&lang=eng">Household expenditures research papers series</a>."
+3,"For 2012, household expenditure data were also collected in the three territories. The data are available in table 11-10-0126-01 (formerly CANSIM table 203-0030). However, caution should be used when comparing provincial and territorial data since the collection method was different in the territories."
+4,"Starting with the 2017 reference year, the Survey of Household Spending (SHS) uses survey weights which take into account population projections from the 2016 Census. Estimates from SHS 2010 to 2016 are based on survey weights which take into account population projections from the 2011 Census."
+5,"To ensure data quality, suppression of expenditure estimates is based on the coefficient of variation (CV). Expenditures that have a CV greater than or equal to 35% are suppressed as they are too unreliable to be published."
+6,"Starting with the 2017 reference year, the Survey of Household Spending is conducted every two years."
+7,"The 2019 Survey of Household Spending questionnaire was streamlined to reduce respondent burden. As a result, some data series are no longer available or have been combined to create new series starting with reference year 2019. As well, estimates for some expenditure categories in 2019 may no longer be directly comparable to those from previous years due to changes to the questionnaire and/or to the mode used to collect certain expenditures. Additional information on the impact of these changes is available upon request."
+8,"Canada-level statistics include the 10 provinces only."
+9,"Starting in 2019, expenditures for gifts for non-household members are included in amounts reported for clothing, footwear, accessories and jewellery."
+10,"Starting in 2014, expenditure estimates for provincial health insurance premiums are included with income taxes. These estimates are calculated using information from personal income tax data (T1). Previously, provincial health insurance premiums were included with health care expenditures."
+
+
+
+"How to cite: Statistics Canada. Table 11-10-0223-01  Household spending by household income quintile, Canada, regions and provinces"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022301
